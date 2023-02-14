@@ -1,10 +1,10 @@
-/* INDEX */
+/* /* INDEX */
 /* Header */
-.Header{
+/* .Header{
 display: block;
 }
-
-.H1-Header{
+ */
+/* .H1-Header{
  font-size: 60px;
  position: relative;
  bottom: 20px;
@@ -69,4 +69,4 @@ p{
     left: 10px;
     text-align: justify;
 
-}
+}/*  */ 

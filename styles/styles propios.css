@@ -1,0 +1,70 @@
+
+                        /* INDEX */
+/* HEADER */
+*{
+    background-color: #9DCB5A;
+}
+.Header{   
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+}
+.H1-Header{
+    position: relative;
+    font-size: 45px;
+    text-align: center;
+    font-style: helvetica;
+    z-index: 0;
+}
+
+.Nav-1 Nav-2 Nav-3{
+    position: relative;
+    font-size: 35px;
+    text-align: center;
+    font-style: helvetica;
+    color: white;
+    z-index: 0;
+    bottom: 10px;
+}
+
+.image-header{
+    width: 300px ;
+    height: 150px ;
+    z-index: 5;
+    position: relative;
+    right: -1200px;
+}
+
+.Logo-Index{
+    position: relative;
+    width: 250px;
+    height: 250px;
+    bottom: 260px;
+    z-index: 1;
+}
+
+.H2-Header{
+    position: relative;
+    font-size: 35px;
+    text-align: center;
+    bottom: 150px;
+}
+
+.Text-Events{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative ;
+    text-align: justify;
+    font-size: 19px;
+    bottom: 400px;
+    right: -350px;
+    z-index: 0;
+    font-style: helvetica;
+    width: 1000px;
+}
+
+.image-header1{
+    position: relative;
+    width: 250px;
+    height: 350px;
+    bottom: 600px;
+    z-index: 1;
+}
